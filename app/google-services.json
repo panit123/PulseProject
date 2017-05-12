@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "631974082412",
+    "firebase_url": "https://pulseesp-a63ac.firebaseio.com",
+    "project_id": "pulseesp-a63ac",
+    "storage_bucket": "pulseesp-a63ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631974082412:android:f48689f444d71e61",
+        "android_client_info": {
+          "package_name": "bottomnav.hitherejoe.com.bottomnavigationsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631974082412-i5kf7dbgprr02p4umidc0jv9et6rkt2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bottomnav.hitherejoe.com.bottomnavigationsample",
+            "certificate_hash": "c73ab1842827348b2a2bb9119604577c6e783e3c"
+          }
+        },
+        {
+          "client_id": "631974082412-fc653oqbrenfpkqqhemfjihhk13o3nbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP14KdLxjekVeBUCFkqsleqWqO-s5PgmE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631974082412-fc653oqbrenfpkqqhemfjihhk13o3nbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
